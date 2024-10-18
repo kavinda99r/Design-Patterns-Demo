@@ -1,4 +1,4 @@
-# Design-Patterns-using-Java
+# Design-Patterns-Demo-using-Java
 
 <h3>Patterns Included</h3>
 
